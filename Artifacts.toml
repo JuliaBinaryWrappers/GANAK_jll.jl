@@ -1,244 +1,148 @@
 [[GANAK]]
 arch = "aarch64"
-git-tree-sha1 = "d77ed96254961e91416476e5ce0aeaaff6e92ad2"
+git-tree-sha1 = "69e363ed1644af4f9498e8b2392038b1cf8af4a8"
 os = "macos"
 
     [[GANAK.download]]
-    sha256 = "9f7c30c0921aad5010cbab40050c33c06af3289a2dc92ef00b015d6bc8d76d8e"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.aarch64-apple-darwin.tar.gz"
-[[GANAK]]
-arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "198279fb3a2f11cce15684b8cb5c9cfe34a274bf"
-libc = "glibc"
-os = "linux"
-
-    [[GANAK.download]]
-    sha256 = "c02a60bd217c4da0860f72a08b4dee0903cb5930b2fc176f752578eacb879c0d"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "d5551eb650f5ac59587616c92731b7ffd1102828ed6d797df52f1884af1a35b1"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.aarch64-apple-darwin.tar.gz"
 [[GANAK]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4e46a7b7fce1518f9013c317607fdfba010b8800"
+git-tree-sha1 = "8bec5a6f6b4ceaaec26a8234cb47f2763064b548"
 libc = "glibc"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "2057431002d33e37ff4fd83d5621383240b740bb660f0539002e9d9775d16ba0"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "70bb256184a389f5998198ced2866e90386b704448fde19fa1f8d72e2eed3b89"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[GANAK]]
 arch = "aarch64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "542736a9e483145bd593cca46171c785d128dd52"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "87c36a2ad27b58391ed106f0c6e912a51c331556"
 libc = "musl"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "16653ecb928c40573bbc08b82b4fd46139617a708093322e718fc875197c69b6"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
-[[GANAK]]
-arch = "aarch64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7824594e6db75bd76dcf0967247d257c20d10538"
-libc = "musl"
-os = "linux"
-
-    [[GANAK.download]]
-    sha256 = "bd74940e1914d6ef29f9593c86245f9f04b5ca59508595dc340466285ced0738"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
-[[GANAK]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "a9170658cdb982be4562fa80ba9319b92d5f35de"
-libc = "glibc"
-os = "linux"
-
-    [[GANAK.download]]
-    sha256 = "47958efb902fcf6a7209fa59cea6e34f5bb079311f414eece1276d32d05e965e"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "dbabfc0c7fd804938b866eddba6ab0a849bed0bf9ae3309e2d7ae48293b598c4"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.aarch64-linux-musl-cxx11.tar.gz"
 [[GANAK]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3666c3d6666b01d66d282fe6fc1b08dbb6277f57"
+git-tree-sha1 = "7dac34229e028e580140f37f40bfce8b72a6bc3c"
 libc = "glibc"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "661d020ce78884e4648b3efe5e0bbc56625d16739cd5920329329bcfbc35f334"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
-[[GANAK]]
-arch = "armv6l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "9b2ccb553725b91591b37fcfba5bc5f335b1b8c0"
-libc = "musl"
-os = "linux"
-
-    [[GANAK.download]]
-    sha256 = "c2ee9df1b40a539f446058cd335607a29234514dc733b1e4de18be670665b9f7"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "4eb15f603dd7531eaa8badc12571402e79e16a3471eb4a82515d065878fdc16f"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[GANAK]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0135928114bfc415efb55d239ad3f09b9ae76fa6"
+git-tree-sha1 = "421b5e3d01af89c62be3a589dc26d6c93fc89155"
 libc = "musl"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "bbd493d40f91350a38d48250154b300cf9a7b625a48fc48f7083198912b35ab7"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
-[[GANAK]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "288a82fccf8d362328824800d25dfaf8eaa69be0"
-libc = "glibc"
-os = "linux"
-
-    [[GANAK.download]]
-    sha256 = "2b7ab2516522614b2abfa2d3d23e97b3035cbee0744447cbc5f7143fe43afabd"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "9ca51b9006219a868430c9d0bf12596e819b903220aa9a0f3b5f8d3d4a117c6c"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[GANAK]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "15edb390432e2a5eaae9208feed97a9dcb5ab685"
+git-tree-sha1 = "1da0bdc5350c1c338e99f4eef2e2c98e450a2dfd"
 libc = "glibc"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "0dbf4e0652149303739d344dc8fd98a4009b05636094bad286d84ea3fe2bd510"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
-[[GANAK]]
-arch = "armv7l"
-call_abi = "eabihf"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "3cbe54135b501b27974976fd86ebc11a144d3d2a"
-libc = "musl"
-os = "linux"
-
-    [[GANAK.download]]
-    sha256 = "d0e062aa22a0e79f23ac1672da208932b580eeb902704ecd6f28d679f2add7c6"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "8142f39c7aee6f7e2de7fd6b028743a5c90aeb050cae15a5ed2d4b296b79c6c6"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[GANAK]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "08e56b38ed1bab685ea69f9d9c00d383e2809066"
+git-tree-sha1 = "78742b0aa315ca070f1b399162d026eb921b94d7"
 libc = "musl"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "2ae7da0deda7c7e753a22d6f54a0f230c84a38ca4eef50717032a987eb9ce585"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
-[[GANAK]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "fede20fbf6f6973e2e1cb815c8f17545d8a3ceda"
-libc = "glibc"
-os = "linux"
-
-    [[GANAK.download]]
-    sha256 = "6d2d23bf779c32e3fb94f239058be357b1107ee4c72f5dd4f3879fc1378228ed"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "94610a1ad0663c8c99df0dcd172b0f69382993ac20295dff292b630b3c55c3b7"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[GANAK]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f2129940b77f4766c35a475cb3f09ba78e50ba15"
+git-tree-sha1 = "cced82d325feeabad5dcac938a2c1afe6affd0fa"
 libc = "glibc"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "f6f170541651168bfb4267b5a5074acbbc0dcaa5a9ee96b637b4ff8d7fad6b54"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
-[[GANAK]]
-arch = "i686"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "efea189e597bfa63350f676e6681c4ef8aa33a9d"
-libc = "musl"
-os = "linux"
-
-    [[GANAK.download]]
-    sha256 = "df88e53007f5331545dd51f549f489438f247e7fae5178e11496ac7d0a2f050d"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "45c7748c3f2ccd1c86c7d2ea95a65567b0def65cd05ec5e2fe6f34b855b5b8f9"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.i686-linux-gnu-cxx11.tar.gz"
 [[GANAK]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e11eecde6e3f500720435df36b250dfaac62cf77"
+git-tree-sha1 = "68bba7e7461d18c0a21ecdd252d0aefdf2a8b88e"
 libc = "musl"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "1996eaee75bb56fe7b738394dbcc7c2ea73112837f6f618e3011d848b4f717b4"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.i686-linux-musl-cxx11.tar.gz"
-[[GANAK]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "1eb52f3999bf0d6745ca6e71677d0f37a04a57dc"
-libc = "glibc"
-os = "linux"
-
-    [[GANAK.download]]
-    sha256 = "37a4d4dd936d8d97bc3465a11733f11e7123fc26c859dc3d596e4bd3693b8b39"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "ec14db05734ac3959f6b4e996ffe4ac5e97a52767c2972d81fee4edaf2930b73"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.i686-linux-musl-cxx11.tar.gz"
 [[GANAK]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "09135e3c693843c658d305ab9926736fe3a847a8"
+git-tree-sha1 = "1d706f667c0bc556b0d8e047d1de39e72a5485d7"
 libc = "glibc"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "f0601c47333c63ad91ef42907956b0b74c09a7dcf45ca2d0e4a5abfc63bdf36a"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "fb663003a707d3fefdad62ed030869891f6c8accf311201879c993b7475ff86d"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GANAK]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2e33b4bd7f638ccfc66fd89eb79fff980bafa4e9"
+libc = "glibc"
+os = "linux"
+
+    [[GANAK.download]]
+    sha256 = "52851358367aa3463d1ff36ab7791cfd4e90982cb0f8a48bf5572f261b25ba36"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.riscv64-linux-gnu-cxx11.tar.gz"
 [[GANAK]]
 arch = "x86_64"
-git-tree-sha1 = "be264c533eddf057fe65ec21fd6ccb760973cb09"
+git-tree-sha1 = "e39a7609036072eb2ef3b562a24770e566875817"
 os = "macos"
 
     [[GANAK.download]]
-    sha256 = "c2f2b3771f2f82542711d66a2f07e5778619afaeae383b82d7e3f90da62abbd6"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "f92bd7990a8da13e79bb83d202b5a43b6de4123787e9810f364d9e406c9d804e"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.x86_64-apple-darwin.tar.gz"
 [[GANAK]]
 arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "8f7a42bf96a04a6e38d659903203ef9516bd0d48"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9fa3627c2961a0452668160a4b55b5330a2986eb"
 libc = "glibc"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "2739784cd16426db1cb61c8f699a60018057e05519f9498fd591b4ed7c325773"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "9c94224ddbf8670c408f0aa987109d8a87a9116e4587ac3013ef674baf01a22d"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[GANAK]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "37e30bf3a450835933c02bc19ed72b6510872968"
-libc = "glibc"
-os = "linux"
-
-    [[GANAK.download]]
-    sha256 = "1ddd785e01e6910312383109cc84f8e73eb3fdd6f356bacbcc633d24c001d85e"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
-[[GANAK]]
-arch = "x86_64"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "26185b815b8008e2b558f6a48e748a7e79439592"
+git-tree-sha1 = "cfbee096283490c0e17d6e9d54e1be70bd981b83"
 libc = "musl"
 os = "linux"
 
     [[GANAK.download]]
-    sha256 = "1d175b645596f76e20b089c33b5efc4fe9eb254e8e9ed526cf0429aed0bea0f0"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "b31754f788c8e36d10588f1993b85251a1821a386563bfc0919542d9ddc93bd1"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.x86_64-linux-musl-cxx11.tar.gz"
 [[GANAK]]
 arch = "x86_64"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3e88cf8bdd90792f7e0edfa714f2fc7fa038106"
-libc = "musl"
-os = "linux"
+git-tree-sha1 = "534b8e2293eb3d61b30122b67e20bf2f045ed516"
+os = "freebsd"
 
     [[GANAK.download]]
-    sha256 = "680ad2fd2f40dac6d136b69ed716a88b9d6b5e0bf5075f341bc20d4b0205c098"
-    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v1.0.0+0/GANAK.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "b4bf7ac12d7c4051ca12fc2d1d55926d572a52573b6875d6a30931fc190e44be"
+    url = "https://github.com/JuliaBinaryWrappers/GANAK_jll.jl/releases/download/GANAK-v2.5.2+0/GANAK.v2.5.2.x86_64-unknown-freebsd.tar.gz"
