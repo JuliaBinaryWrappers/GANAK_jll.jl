@@ -1,6 +1,6 @@
 name = "GANAK_jll"
 uuid = "fb55a5e3-47f6-5155-863f-85a2a13cd9d0"
-version = "2.5.2+0"
+version = "2.5.2+1"
 
 [deps]
 GMP_jll = "781609d7-10c4-51f6-84f2-b8444358ff6d"
@@ -21,3 +21,4 @@ julia = "1.6"
 GMP_jll = "6.2.1"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
+FLINT_jll = "~301.300.101"
